@@ -1,6 +1,6 @@
 # hi, i'm anika! 👋 #
 
-im a cs/bba double degree student @ the university of waterloo & wilfrid laurier university
+im a cs student @ the university of waterloo
 
 currently, i'm a swe intern @ temerty faculty of medicine, uoft where i am...
 - building a rag system to help prospective life sciences entrepreneurs map out the toronto ecosystem
